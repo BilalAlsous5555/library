@@ -22,6 +22,6 @@ using "(one_to_one) relation" .
 
 --------------------------------------------------------------
 ##### Note : see the photo under this file .#####
-#### type in terminal : php artisan migrate:fresh --seed  (to seed sum data) ##### library
+#### type in terminal : php artisan migrate:fresh --seed  (to seed some data) ##### library
 # library
 # library
